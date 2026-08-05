@@ -1,4 +1,5 @@
 ## Hi there 👋
+Computer Engineering student with experience in object-oriented programming, data structures, and software development projects using Java and C++. Passionate about problem-solving, algorithms, embedded systems, and learning new technologies. Currently expanding my skills in Spring Boot, algorithms and modern software engineering practices.
 
 <!--
 **Charly190605/Charly190605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Juan Carlos Hurtado Linares
 Computer Engineering student with experience in object-oriented programming, data structures, and software development projects using Java and C++. Passionate about problem-solving, algorithms, embedded systems, and learning new technologies. Currently expanding my skills in Spring Boot, algorithms and modern software engineering practices.
 
 <!--
